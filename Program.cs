@@ -1,4 +1,4 @@
-﻿namespace HashSets
+namespace HashSets
 {
     internal class Program
     {
@@ -19,7 +19,7 @@
             CANSports.Add("Lacrosse");
 
             HashSet<string> OlympicSports = new HashSet<string>();
-            OlympicSports.Add("Skiing");
+            OlympicSports.Add("Golf");
             OlympicSports.Add("Surfing");
             OlympicSports.Add("Fencing");
             OlympicSports.Add("Volleyball");
